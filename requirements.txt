@@ -1,0 +1,3 @@
+pipecat-ai[daily,deepgram,cartesia,anthropic,silero]>=0.0.50
+loguru>=0.7.0
+aiohttp>=3.9.0
